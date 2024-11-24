@@ -97,7 +97,6 @@ top: 180.31px;
 left: 80px;
 gap: 0px;
 border: 15px;
-opacity: 0px;
 background: #FFFFFF;
 border: 15px solid #FFFFFF;
 }
@@ -127,7 +126,6 @@ color: #FFFFFF;
 height: 24px;
 margin-left: 25px;
 gap: 0px;
-opacity: 0px;
 font-family: Jost;
 font-size: 16px;
 font-weight: 400;
