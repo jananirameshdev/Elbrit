@@ -1256,7 +1256,11 @@ position: relative;
 
 
 @media only screen and (max-width: 480px){
-.head{
+body{
+    background-color: #FFFFFF;
+    overflow-x : hidden;
+}
+    .head{
   margin-left: -100px;
 }
 .hero{
