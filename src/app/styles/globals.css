@@ -1256,9 +1256,11 @@ position: relative;
 
 
 @media only screen and (max-width: 480px){
-body{
-    background-color: #FFFFFF;
-    overflow-x : hidden;
+html, body {
+    overflow-x: hidden;
+    width: 100%;
+    margin: 0;
+    padding: 0;
 }
     .head{
   margin-left: -100px;
