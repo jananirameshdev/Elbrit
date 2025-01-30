@@ -10,14 +10,14 @@ function Footer() {
                     <img src="https://i.ibb.co/7VCZs3S/Component-2-svg-1.png" alt="Component-2-svg-1" border="0" className="icon-image1" />
                     <div className="text1">
                         <div className="tex1">Phone Number</div>
-                        <div className="tex2">+974 3118 1843</div>
+                        <div className="tex2">+91 9876543219</div>
                     </div>
                 </div>
                 <div className="icon2">
                     <img src="https://i.ibb.co/mtZVQ6W/Component-2-1-svg.png" alt="Component-2-svg-1" border="0" className="icon-image1" />
                     <div className="text1">
                         <div className="tex1">Email Address</div>
-                        <div className="tex2">Elbrithcqhr@gmail.com</div>
+                        <div className="tex2">vitacart@gmail.com</div>
                     </div>
                 </div>
                 <div className="icon3">
@@ -40,10 +40,10 @@ function Footer() {
             </div>
             <div className="address">
                 <div className="loc-image">
-                    <img src="https://i.ibb.co/NyRqWtT/Group.png" alt="Group" border="0" />
+                    <img src="https://i.ibb.co/hxKk33R5/vitacart-high-resolution-logo.png" alt="Group" border="0" />
                 </div>
                 <div className="loc-text">
-                    Elbrit Life Sciences Private Limited. C20, BKC, G Block, Mumbai 400051
+                    vitacart Private Limited. C20, BKC, G Block, Mumbai 400051
                 </div>
             </div>
         </div>
