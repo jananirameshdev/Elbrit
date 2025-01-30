@@ -30,7 +30,7 @@ function Footer() {
             </div>
             <div className="logo-det">
                 <div className="logo">
-                    <img src="https://i.ibb.co/Jk79zJj/24873ffb8a3345a8dedea9b0d8f9e7ba.png" alt="24873ffb8a3345a8dedea9b0d8f9e7ba" />
+                    <img src="https://i.ibb.co/CpkDYTVD/image-removebg-preview-1.png" alt="24873ffb8a3345a8dedea9b0d8f9e7ba" />
                 </div>
                 <div className="text2">
                     <p>
@@ -40,7 +40,7 @@ function Footer() {
             </div>
             <div className="address">
                 <div className="loc-image">
-                    <img src="https://i.ibb.co/CpkDYTVD/image-removebg-preview-1.png" alt="Group" border="0" />
+                    <img src="https://i.ibb.co/NyRqWtT/Group.png" alt="Group" border="0" />
                 </div>
                 <div className="loc-text">
                     vitacart Private Limited. C20, BKC, G Block, Mumbai 400051
