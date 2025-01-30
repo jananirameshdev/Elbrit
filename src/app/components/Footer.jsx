@@ -40,7 +40,7 @@ function Footer() {
             </div>
             <div className="address">
                 <div className="loc-image">
-                    <img src="https://i.ibb.co/hxKk33R5/vitacart-high-resolution-logo.png" alt="Group" border="0" />
+                    <img src="https://i.ibb.co/CpkDYTVD/image-removebg-preview-1.png" alt="Group" border="0" />
                 </div>
                 <div className="loc-text">
                     vitacart Private Limited. C20, BKC, G Block, Mumbai 400051
